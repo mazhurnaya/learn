@@ -4,7 +4,7 @@ public class AdminGuestMode {
 
 	public static void main(String[] args) {
 		String inputArguments = String.join(",", args);
-		String adminFlag = "--admin";
+		String adminFlag = "--a dmin";
 		String guestFlag = "--guest";
 		if (inputArguments.contains(adminFlag) && inputArguments.contains(guestFlag)) {
 			System.out.println("Please, select either 'ADMIN' or "
