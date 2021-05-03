@@ -1,5 +1,5 @@
 package com.itbulls.mazhurna;
-import java.util.Scanner;
+import java.util.Scanner;  
 
 public class area {    
 
